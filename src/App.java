@@ -1,7 +1,11 @@
+import Models.Book;
+
 public class App {
     public static void main(String[] args) throws Exception {
 
         Book[] books = {
+            //Book bK = new books
+            
                 new Book("Clean Code", 2008),
                 new Book("The Pragmatic Programmer", 1999),
                 new Book("Design Patterns: Elements of Reusable Object-Oriented Software", 1994),
